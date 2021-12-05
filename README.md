@@ -7,4 +7,4 @@ We can try to gather some ideas to take a shot at.
 3. We fork an existing defi protocol... lol jk? 
 4. We keep brainstorming (analytics, nft + ai) what excites us?  
 
-If you want to work on another idea, you can still clone the repo, make a new dir and put your code in there and push.  
+If you want to work on another idea, you can fork the repo, then put in a pull request.  
